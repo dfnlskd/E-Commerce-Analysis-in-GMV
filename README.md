@@ -95,6 +95,24 @@ The chart reveals significant unit price drops in categories such as:
 - `construcao_ferramentas` (tools & construction)
 - `portateis_casa` (home appliances)
 
+## 📌 5. Key Insights & Recommendations
+
+Our analysis reveals that the GMV decline in August 2018 was not due to a drop in demand or customer activity—orders actually increased—but rather due to a decrease in average order value (AOV). Through structured decomposition, we identified the following key insights:
+
+- 📉 The GMV drop was fully driven by a decline in **AOV**, not by lower order volume.
+- 📌 AOV fell because of **within-category price drops** (Like-for-Like), not due to a shift in category or state composition (Mix).
+- 🧺 **Basket size** remained stable, confirming that the issue lies with **unit pricing** rather than quantity per order.
+- 🔍 Several categories—including computers, telecom, and tools—experienced significant unit price declines, becoming the main contributors to the overall loss.
+
+Based on these findings, we recommend the following next steps:
+
+- 🎯 **Prioritize pricing audits** in underperforming categories with the steepest price erosion.
+- 📉 **Recalibrate discount strategies** to ensure promotional depth aligns with margin thresholds and GMV goals.
+- 📊 **Develop a Price Elasticity Dashboard** to monitor the real-time impact of price changes on order volume and GMV at the category and region level.
+- ✅ Avoid chasing short-term improvements through Mix shifts; instead, focus on **improving Like-for-Like performance** within strategic segments.
+
+These actions will help address the root cause of the revenue drop and improve profitability without over-correcting the product mix or customer base.
+
 On the other hand, a few categories like `livros_importados` (imported books) actually saw a rise in unit price, but these gains were not enough to offset the overall decline.
 
 **These insights suggest that the GMV loss was concentrated in a few underperforming categories with sharp price declines, which should be prioritized for pricing review or promotional adjustment.**
