@@ -48,9 +48,6 @@ To better understand this change, we looked at key metrics for August 2018:
 
 This observation led us to examine whether the GMV change was driven by order volume or by order value.
 
-<img width="901" height="720" alt="Picture1" src="https://github.com/user-attachments/assets/f6fec512-8d19-4827-818c-552a89c585fd" />
-Dashboard 1: Monthly GMV Tracking Overall Business Performance
-
 ### L1: Decomposing GMV — Orders × AOV
 
 The “Monthly Orders & AOV” chart reveals that in August 2018:
@@ -62,6 +59,10 @@ Since GMV = Orders × AOV, and order volume actually grew, the GMV decline must 
 To validate this, the "GMV Waterfall of August 2018" further confirms that AOV contributed negatively, while the volume (orders) contributed positively.
 
 **This establishes that the GMV drop in August 2018 was not due to fewer orders, but rather due to lower value per order—prompting further analysis at the AOV level.**
+
+<img width="901" height="720" alt="Picture1" src="https://github.com/user-attachments/assets/f6fec512-8d19-4827-818c-552a89c585fd" />
+
+Dashboard 1: Monthly GMV Tracking Overall Business Performance
 
 ### L2-A: Decomposing AOV — Mix vs. Like-for-Like (LFL)
 
@@ -94,6 +95,10 @@ The chart reveals significant unit price drops in categories such as:
 - `telefonia_fixa` (fixed-line phones)
 - `construcao_ferramentas` (tools & construction)
 - `portateis_casa` (home appliances)
+
+<img width="901" height="720" alt="Picture2" src="https://github.com/user-attachments/assets/4f2bb4f3-1da4-4ff8-bca3-857229422089" />
+
+Dashboard 2: Results for L2 and L3
 
 ## 📌 5. Key Insights & Recommendations
 
