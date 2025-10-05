@@ -48,6 +48,9 @@ To better understand this change, we looked at key metrics for August 2018:
 
 This observation led us to examine whether the GMV change was driven by order volume or by order value.
 
+<img width="901" height="720" alt="Picture1" src="https://github.com/user-attachments/assets/f6fec512-8d19-4827-818c-552a89c585fd" />
+Dashboard 1: Monthly GMV Tracking Overall Business Performance
+
 ### L1: Decomposing GMV — Orders × AOV
 
 The “Monthly Orders & AOV” chart reveals that in August 2018:
